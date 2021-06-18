@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Markdown-Previewer/static/css/main.bab0b925.chunk.css",
-    "main.js": "/Markdown-Previewer/static/js/main.0fc4385a.chunk.js",
-    "main.js.map": "/Markdown-Previewer/static/js/main.0fc4385a.chunk.js.map",
-    "runtime-main.js": "/Markdown-Previewer/static/js/runtime-main.6dbcfde9.js",
-    "runtime-main.js.map": "/Markdown-Previewer/static/js/runtime-main.6dbcfde9.js.map",
-    "static/js/2.fb385b10.chunk.js": "/Markdown-Previewer/static/js/2.fb385b10.chunk.js",
-    "static/js/2.fb385b10.chunk.js.map": "/Markdown-Previewer/static/js/2.fb385b10.chunk.js.map",
-    "static/js/3.550344ea.chunk.js": "/Markdown-Previewer/static/js/3.550344ea.chunk.js",
-    "static/js/3.550344ea.chunk.js.map": "/Markdown-Previewer/static/js/3.550344ea.chunk.js.map",
-    "index.html": "/Markdown-Previewer/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/Markdown-Previewer/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.fb385b10.chunk.js.LICENSE.txt": "/Markdown-Previewer/static/js/2.fb385b10.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Markdown-Previewer/static/media/logo.6ce24c58.svg"
+    "main.css": "/Markdown/static/css/main.bab0b925.chunk.css",
+    "main.js": "/Markdown/static/js/main.0fc4385a.chunk.js",
+    "main.js.map": "/Markdown/static/js/main.0fc4385a.chunk.js.map",
+    "runtime-main.js": "/Markdown/static/js/runtime-main.4203f452.js",
+    "runtime-main.js.map": "/Markdown/static/js/runtime-main.4203f452.js.map",
+    "static/js/2.fb385b10.chunk.js": "/Markdown/static/js/2.fb385b10.chunk.js",
+    "static/js/2.fb385b10.chunk.js.map": "/Markdown/static/js/2.fb385b10.chunk.js.map",
+    "static/js/3.550344ea.chunk.js": "/Markdown/static/js/3.550344ea.chunk.js",
+    "static/js/3.550344ea.chunk.js.map": "/Markdown/static/js/3.550344ea.chunk.js.map",
+    "index.html": "/Markdown/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/Markdown/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.fb385b10.chunk.js.LICENSE.txt": "/Markdown/static/js/2.fb385b10.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Markdown/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6dbcfde9.js",
+    "static/js/runtime-main.4203f452.js",
     "static/js/2.fb385b10.chunk.js",
     "static/css/main.bab0b925.chunk.css",
     "static/js/main.0fc4385a.chunk.js"
